@@ -1,0 +1,18 @@
+create table drinks (id integer primary key, name TEXT, quantity integer, price NUMERIC);
+insert into drinks values (1,"coca-cola",400, 3); 
+insert into drinks values (2,"Sprite",300,3); 
+insert into drinks values(3,"whole-milk",200, 2); 
+insert into drinks values(4, "oat-milk",150, 4); 
+insert into drinks values (5, "fanta", 200,3); 
+insert into drinks values (6, "water", 500, 1);
+insert into drinks values(7, "iced-coffee",200, 5); 
+insert into drinks values (8,"red-bull",50,6);
+insert into drinks values (9,"ghost", 400,3); 
+insert into drinks values (10,"alkaline-water",500, 5); 
+insert into drinks values (11,"nut-milk", 200, 4); 
+insert into drinks values (12, "diet-coke",300,3); 
+insert into drinks values (13, "diet sprite",400,3); 
+insert into drinks values(14, "rum", 40, 12); 
+insert into drinks values(15, "tequila", 50, 100);  
+select * from drinks where quantity>=200; 
+select * from drinks where quantity<400 and price>5 
