@@ -1,3 +1,3 @@
-# SQL
-SQL portafolio 
-Welcome to my SQL portafolio! here you will be able to see all the SQL coding I have done. let me know if you have any questions. michelin229@gmail.com
+###### Julian Cardozo SQL Portafolio
+
+## Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out if you have any questions. michelin229@gmail.com
